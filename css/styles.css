@@ -1,0 +1,18 @@
+h1 {
+  color: salmon;
+}
+
+h2 {
+  color: lightblue;
+  font-weight: lighter;
+  font-family: cursive;
+}
+
+p {
+  color: blue;
+}
+
+body {
+  text-align: center;
+  background-color: tan;
+}
